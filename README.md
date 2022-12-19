@@ -1,58 +1,5 @@
 <!DOCTYPE HTML>
 <html lang='ru'>
-<head>
-<title>Различные приемы решения квадратных уравнений.</title>
-<meta charset='utf-8'>
-<link rel='stylesheet'>
- <style type="text/css">
-   .block1 { 
-    width: 1000px; 
-    background: #ccc;
-    padding: 5px;
-    padding-right: 20px; 
-    border: solid 1px black; 
-   }
-   .block2 { 
-    width: 1000px; 
-    background: #fc0; 
-    padding: 10px; 
-    position: relative; 
-    top: 100px; 
-   }
-.block3 { 
-    width: 1000px; 
-    padding: 10px; 
-    position: relative; 
-    top: 100px; 
-	align: left;
-   }
-
-   h1 {
-    margin-bottom: -15px; 
-   }
-    h2 {
-    margin-bottom: -15px; 
-   }
-    h3 {
-    margin-bottom: -4px; 
-   }
-    h4 {
-    margin-bottom: -80px; 
-	font: 20pt "Times New Roman"
-   }
-    h5 {
-    margin-bottom: -15px; 
-   }
-    h6 {
-    margin-bottom: -80px; 
-	font: 20pt "Times New Roman"
-   }
-   h7 {
-    margin-bottom: -400px; 
-   }
-  </style> 
-  </style> 
-</head>
 <body> 
 
 <h1><b><center><font size="7"color="black" face="Times New Roman"> Математика.</Font></center></b></h1>
