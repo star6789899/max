@@ -2,20 +2,20 @@
 <html lang='ru'>
 <body> 
 
-<h1><b><center><font size="7"color="black" face="Times New Roman"> Математика.</Font></center></b></h1>
+<h1><b><center> Математика.</center></b></h1>
 <h2><b><center>Различные приемы решения квадратных уравнений.</center></b></h2>
 <h2><b><center>Содержание.</center></b></h2>
 <a id="top">
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Введение.">Введение.</font></p></div></a></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Определение.">Определение.</font></p></div></a></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Виды квадратных уравнений.">Виды квадратных уравнений.</font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Метод выделения полного квадрата.">Метод выделения полного квадрата.</a></font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение квадратных уравнений по формуле.">Решение квадратных уравнений по формуле.</a></font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Разложение левой части уравнения на множители.">Разложение левой части уравнения на множители.</font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений с использованием теоремы Виета (прямой и обратной)">Решение уравнений с использованием теоремы Виета (прямой и обратной)</font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений способом «переброски»">Решение уравнений способом «переброски»</a></font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений по свойству коэффициентов">Решение уравнений по свойству коэффициентов</font></p></p></div></center></h3>
-<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href ="#Графическое решение квадратного уравнения"> Графическое решение квадратного уравнения</a></font></p></p></div></center></h3>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Введение.">Введение.</a>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Определение.">Определение.</a>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Виды квадратных уравнений.">Виды квадратных уравнений.</center>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Метод выделения полного квадрата.">Метод выделения полного квадрата.</a>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение квадратных уравнений по формуле.">Решение квадратных уравнений по формуле.</a>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Разложение левой части уравнения на множители.">Разложение левой части уравнения на множители.
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений с использованием теоремы Виета (прямой и обратной)">Решение уравнений с использованием теоремы Виета (прямой и обратной)
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений способом «переброски»">Решение уравнений способом «переброски»</a>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href="#Решение уравнений по свойству коэффициентов">Решение уравнений по свойству коэффициентов</font>
+<h3><center><div class="block2"><P><font size="5" color="black" face="Times New Roman"><a href ="#Графическое решение квадратного уравнения"> Графическое решение квадратного уравнения</a>
 
 
 <a id="Введение."><h2><b><center>Введение.</center></b></h2></a>
